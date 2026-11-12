@@ -1,0 +1,9 @@
+{
+  "name": "isometric-tongelre",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "playwright": "^1.65.0",
+    "three": "0.170.0"
+  }
+}
