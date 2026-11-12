@@ -1,0 +1,286 @@
+{
+ "stops": [
+  {
+   "n": 1,
+   "year": "1241",
+   "title": "Tongelre in de stukken",
+   "text": "Uit archeologisch onderzoek weten we dat het dorp aan het begin van de dertiende eeuw ontstond, op de hoge grond langs de Dommel. De oudste geschreven vermeldingen staan in akten van 1241 en 1244: Herman Freso Hanegreve doet afstand van zijn aanspraken op een paar eigendommen, en keizerin Maria schenkt haar belastingopbrengst in Tongelre aan het klooster van Binderen bij Helmond. De gemeente Tongelre bestond uit de dorpskern hier, en de gehuchten Urkhoven, 't Coll en Klein Tongelre.",
+   "x": 164190,
+   "y": 384345,
+   "h": 0,
+   "zoom": 0.45,
+   "source": {
+    "label": "Erfgoedborden, gemeente Eindhoven",
+    "url": "https://data.eindhoven.nl/explore/dataset/erfgoedbordjes/"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/01_0.jpg?v=1b1425ac",
+     "credit": "De gemeente Tongelre op de kaart van J. Kuyper, 1868 (publiek domein)",
+     "url": "https://commons.wikimedia.org/wiki/File:1868%20Tongelre.gif"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "year": "1584",
+   "title": "De boerderij van Van Poppel",
+   "text": "Een driebeukig hallehuis met een brede middenbeuk en twee smalle zijbeuken, woonhuis en stal onder één dak: een van de oudste panden van Eindhoven. Rond 1600 kwam er een opkamer met kelder bij; in de achttiende eeuw werden de kopgevel, de straatgevel en de stal vernieuwd. De boerderij stond pal aan het dorpsplein, dat inmiddels verdwenen is. Bij een opgraving in 1993 kwam er een afvalkuil naast tevoorschijn met zeventiende-eeuws Delfts aardewerk en gebrandschilderd glas.",
+   "x": 164198,
+   "y": 384336,
+   "h": 8,
+   "zoom": 1.2,
+   "source": {
+    "label": "Erfgoedborden, gemeente Eindhoven",
+    "url": "https://data.eindhoven.nl/explore/dataset/erfgoedbordjes/"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/03_0.jpg?v=1b1425ac",
+     "credit": "Een andere oude Tongelrese boerderij, aan de Jeroen Boschlaan, 2020. Rosemoon, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:0772%20WN126%20Jeroen%20Boschlaan%201%2C%20Eindhoven.jpg"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "year": "1911",
+   "title": "Het raadhuis van Tongelre",
+   "text": "Het laatste gemeentehuis van de zelfstandige gemeente Tongelre, naar een ontwerp van Jan Stuyt. Het staat er nog, aan de bocht van 't Hofke, en wordt nog altijd gebruikt voor het buurtleven.",
+   "x": 164222,
+   "y": 384327,
+   "h": 8,
+   "zoom": 1.2,
+   "source": {
+    "label": "Erfgoedborden, gemeente Eindhoven",
+    "url": "https://data.eindhoven.nl/explore/dataset/erfgoedbordjes/"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/07_0.jpg?v=1b1425ac",
+     "credit": "Schetsontwerp van Jan Stuyt, september 1910 (publiek domein)",
+     "url": "https://commons.wikimedia.org/wiki/File:Schetsontwerp%20raadhuis%20Tongelre.jpg"
+    },
+    {
+     "src": "history/07_1.jpg?v=1b1425ac",
+     "credit": "Voor- en rechterzijgevel in 1974. Rijksdienst voor het Cultureel Erfgoed, Gerard Dukker, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Voor%20en%20rechterzijgevel%20-%20Tongelre%20-%2020209751%20-%20RCE.jpg"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "year": "1917",
+   "title": "De Sint-Martinuskerk",
+   "text": "Een driebeukige neogotische kruisbasiliek op de plek waar Tongelre al sinds de dertiende eeuw om een kerk heen ligt. De twee torens die het hoofdportaal zouden flankeren zijn nooit afgebouwd. Op de gevel van de pastorie ernaast staat een Goede Herder van de Eindhovense beeldhouwer Jan Custers uit 1918.",
+   "x": 164108,
+   "y": 384353,
+   "h": 16,
+   "zoom": 1.2,
+   "source": {
+    "label": "Sint-Martinuskerk (Tongelre), Wikipedia",
+    "url": "https://nl.wikipedia.org/wiki/Sint-Martinuskerk_(Tongelre)"
+   },
+   "more": "https://nl.wikipedia.org/wiki/Sint-Martinuskerk_(Tongelre)",
+   "photos": [
+    {
+     "src": "history/08_0.jpg?v=1b1425ac",
+     "credit": "De kerk in januari 1973. Rijksdienst voor het Cultureel Erfgoed, Gerard Dukker, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Exterieur%20-%20Tongelre%20-%2020209739%20-%20RCE.jpg"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "year": "1846",
+   "title": "Het kasteeltje van Tongelre",
+   "text": "Hier stond in 1375 al 'Het goed Ten Hove', in 1637 een bakstenen huis genaamd Musberg. Jonkheer Theodorus Smits-van Eckart kocht het op 25 september 1846, met alle bijgebouwen en een boerderij, en liet landhuis en boerderij in 1872 afbreken en groter terugbouwen. Omdat het complex op een kasteel leek, heette het voortaan het kasteeltje van Tongelre.",
+   "x": 163686,
+   "y": 384458,
+   "h": 8,
+   "zoom": 1.2,
+   "source": {
+    "label": "Erfgoedborden, gemeente Eindhoven",
+    "url": "https://data.eindhoven.nl/explore/dataset/erfgoedbordjes/"
+   },
+   "more": null,
+   "photos": []
+  },
+  {
+   "n": 6,
+   "year": "1941",
+   "title": "De Philipsboerderij",
+   "text": "Philips kocht het kasteeltje en de boerderij in 1920 om er woningen te bouwen. Het liep anders: pas in 1930 werden de panden gesloopt, en in 1941 zette Philips er in plaats van woningen een boerderij neer, die nog lang in bedrijf bleef. De funderingen van het oude landhuis liggen, in kaart gebracht en weer toegedekt met zand, nog onder het gras. Nu zijn de boerderij, de bakkerij en de streekwinkel het hart van Groendomein Wasven.",
+   "x": 163686,
+   "y": 384458,
+   "h": 8,
+   "zoom": 1.2,
+   "source": {
+    "label": "Erfgoedborden, gemeente Eindhoven",
+    "url": "https://data.eindhoven.nl/explore/dataset/erfgoedbordjes/"
+   },
+   "more": "https://www.wasven.nl",
+   "photos": []
+  },
+  {
+   "n": 7,
+   "year": "1920",
+   "title": "Bij Eindhoven gevoegd",
+   "text": "Op 1 januari 1920 werden Tongelre, Stratum, Gestel, Strijp en Woensel samengevoegd met het stadje Eindhoven, dat ruimte nodig had. Eindhoven had 6.500 inwoners, Tongelre 3.200. Zowel de bevolking als het gemeentebestuur van Tongelre was tegen: men vreesde hogere belastingen, een landelijk dorp dat door de stad werd opgeslokt en meer criminaliteit. Honderd jaar later, in 2020, is in elk van de vijf voormalige gemeenten een zomerlinde als gedenkboom geplant; die van Tongelre staat hier, in Klein Tongelre.",
+   "x": 162960,
+   "y": 383514,
+   "h": 0,
+   "zoom": 1.2,
+   "source": {
+    "label": "Erfgoedborden, gemeente Eindhoven",
+    "url": "https://data.eindhoven.nl/explore/dataset/erfgoedbordjes/"
+   },
+   "more": null,
+   "photos": []
+  },
+  {
+   "n": 8,
+   "year": "ca. 1920",
+   "title": "Lakerlopen",
+   "text": "De buurt heet naar het stroompje de Lakerloop, dat liep waar nu de Ruysdaelbaan en de Fazantlaan liggen. Stadsarchitect Louis Kooken ontwierp hier sociale woningbouw voor arbeiders: poortgebouwen, bakstenen gevels en hoge rode daken, met een beeld van Sint-Joseph als teken van de katholieke oorsprong. In 2005 werd een groot deel gesloopt en vervangen door nieuwbouw; de Van Dijckstraat en het poortgebouw aan de Bosboomstraat bleven.",
+   "x": 162748,
+   "y": 383433,
+   "h": 8,
+   "zoom": 1.2,
+   "source": {
+    "label": "Erfgoedborden, gemeente Eindhoven",
+    "url": "https://data.eindhoven.nl/explore/dataset/erfgoedbordjes/"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/10_0.jpg?v=1b1425ac",
+     "credit": "Het poortgebouw aan de Bosboomstraat, 2007. Wammes Waggel, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Bosboomstraat-36-38-Eindhoven.jpg"
+    },
+    {
+     "src": "history/10_1.jpg?v=1b1425ac",
+     "credit": "De Van Dijckstraat, 2020. Rosemoon, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:0772%20WN290%20Van%20Dijckstraat%201-13%2C%20Eindhoven.jpg"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "year": "1877",
+   "title": "Tongelre gaat op de sigaren",
+   "text": "Tongelre had een grote boerenbevolking; de nijverheid kwam op de tweede plaats, maar groeide hard. Langs de Lakerstraat en de Tongelresestraat verrezen sigarenfabrieken, met de arbeiderswoningen er direct omheen. Van de sigaren leefden ook de bedrijven die kisten, luciferdoosjes en sigarenbandjes maakten, zoals de sigarenkistenfabriek van J. Brüning en zoon, later NV Houtindustrie Picus.",
+   "x": 162327,
+   "y": 383255,
+   "h": 8,
+   "zoom": 1.2,
+   "source": {
+    "label": "Erfgoedborden, gemeente Eindhoven",
+    "url": "https://data.eindhoven.nl/explore/dataset/erfgoedbordjes/"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/06_0.jpg?v=1b1425ac",
+     "credit": "De kantoorvilla van Picus aan de Tongelresestraat, 2020. Rosemoon, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:0772%20WN278%20Tongelresestraat%2029%2C%20Eindhoven.jpg"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "year": "1971",
+   "title": "De brand bij Karel I",
+   "text": "Vroeg in de ochtend van 19 februari 1971 brak brand uit in de Karel I sigarenfabriek; het hele bedrijf ging in de as. Henri van Abbe was in 1908 in Gestel sigaren gaan maken en zette de productie vanaf 1915 hier voort; in 1927 kwam er een complex van vier verdiepingen bij. Hij was een van de grootste werkgevers van Eindhoven. Alleen de muur met geglazuurde tegels staat er nog.",
+   "x": 162103,
+   "y": 383023,
+   "h": 0,
+   "zoom": 1.2,
+   "source": {
+    "label": "Erfgoedborden, gemeente Eindhoven",
+    "url": "https://data.eindhoven.nl/explore/dataset/erfgoedbordjes/"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/12_0.jpg?v=1b1425ac",
+     "credit": "De afgebrande fabriek, 19 februari 1971. W. Punt voor Anefo, Nationaal Archief, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Brand%20in%20sigarenfabriek%20Karel%20I%20%2C%20Eindhoven%20afgebrande%20Karel%20I%20fabriek%2C%20Bestanddeelnr%20924-2821.jpg"
+    },
+    {
+     "src": "history/12_1.jpg?v=1b1425ac",
+     "credit": "Blussen op de ochtend van de brand. W. Punt voor Anefo, Nationaal Archief, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Brand%20in%20sigarenfabriek%20Karel%20I%20%2C%20Eindhoven%2C%20Bestanddeelnr%20924-2823.jpg"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "year": "ca. 1558",
+   "title": "Kasteel Coudenhove",
+   "text": "Kasteel Het Borchsken, ook Coudenhove en Beauregard genoemd, werd rond 1558 gebouwd voor jonkheer Rutger van Berckel, schepen van 's-Hertogenbosch en heer van Tongelre, en zijn vrouw Livina van Coudenhove. In 1705 worden een grote zaal, een eetzaal, een kapel, een keuken, een kelderkamertje, een slaapkamer, een maagdenkamer en een knechtkamer genoemd. In 1793 was het al zwaar vervallen; zeven jaar later blies een orkaan de resten omver. Op de kadasterkaart was alleen de ronde gracht nog te zien.",
+   "x": 162857,
+   "y": 385483,
+   "h": 0,
+   "zoom": 1.2,
+   "source": {
+    "label": "Erfgoedborden, gemeente Eindhoven",
+    "url": "https://data.eindhoven.nl/explore/dataset/erfgoedbordjes/"
+   },
+   "more": null,
+   "photos": []
+  },
+  {
+   "n": 12,
+   "year": "1743",
+   "title": "De watermolen van Opwetten",
+   "text": "De molen op de Kleine Dommel, op de grens met Nuenen, is in de dertiende eeuw voor het eerst vermeld en in 1743 in zijn huidige vorm herbouwd: een korenmolen en een oliemolen naast elkaar, elk met een onderslagrad. Vincent van Gogh woonde in 1884 en 1885 bij zijn ouders in Nuenen en liep hier langs op zijn tochten naar Eindhoven; in november 1884 schilderde hij de molen.",
+   "x": 164880,
+   "y": 385598,
+   "h": 8,
+   "zoom": 1.2,
+   "source": {
+    "label": "Opwettense watermolen, Wikipedia",
+    "url": "https://nl.wikipedia.org/wiki/Opwettense_watermolen"
+   },
+   "more": "https://nl.wikipedia.org/wiki/Opwettense_watermolen",
+   "photos": [
+    {
+     "src": "history/04_0.jpg?v=1b1425ac",
+     "credit": "Vincent van Gogh, De watermolen van Opwetten, november 1884 (publiek domein)",
+     "url": "https://commons.wikimedia.org/wiki/File:Vincent%20van%20Gogh%20-%20Water%20mill%20at%20Opwetten%20%281884%29.jpg"
+    },
+    {
+     "src": "history/04_1.jpg?v=1b1425ac",
+     "credit": "De molen in 2007. Wammes Waggel, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Opwettense-watermolen.jpg"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "year": "1973",
+   "title": "'t Karregat",
+   "text": "Frank van Klingeren bouwde hier een wijkgebouw zonder muren: school, winkels, bibliotheek en buurthuis onder één groot dak, met als idee dat mensen elkaar dan niet kunnen ontlopen. Het werd wereldberoemd en onleefbaar luidruchtig; later zijn er alsnog wanden ingezet. Het dak met zijn ronde lichtkoepels staat er nog.",
+   "x": 164430,
+   "y": 384002,
+   "h": 6,
+   "zoom": 1.2,
+   "source": {
+    "label": "'t Karregat, Wikipedia",
+    "url": "https://nl.wikipedia.org/wiki/%27t_Karregat"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/13_0.jpg?v=1b1425ac",
+     "credit": "Basisschool 't Karregat, 2012. Rosemoon, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Basisschool%20%27t%20Karregat%20Eindhoven.JPG"
+    }
+   ]
+  }
+ ]
+}
